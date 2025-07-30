@@ -1,0 +1,170 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+header {
+  background-image: url("Docs/img/banner-topo.jpg");
+  background-position: center;
+  background-size: cover;
+  color: #3c184e;
+  width: 100%;
+  height: auto;
+  padding: 120px 80px;
+}
+header a {
+  color: #fff;
+  text-decoration: none;
+}
+header img {
+  font-size: 20px;
+}
+
+main {
+  color: #3c184e;
+}
+
+.redes-sociais,
+footer {
+  color: #fff;
+  background-color: #3c184e;
+}
+
+span {
+  font-weight: 700;
+  font-style: italic;
+}
+
+header img {
+  width: 35px;
+  margin-right: 5px;
+  height: 30px;
+}
+.topo1,
+.topo2 {
+  max-width: 250px;
+}
+
+.topo1 {
+  font-size: 35px;
+  margin: 5px 0;
+  display: flex;
+}
+
+.topo2 {
+  font-size: 14px;
+  text-align: center;
+}
+
+.bloco-transparente {
+  background-color: #ffffffc4;
+  box-shadow: 0 8px 32px #1f26875e;
+  padding: 40px;
+  border-radius: 10px;
+  width: 1024px;
+  margin: 70px auto 0 auto;
+}
+.bloco-transparente h1 {
+  font-size: 60px;
+  font-weight: 800;
+}
+
+.wpp {
+  width: 200px;
+  padding: 10px 25px;
+  font-size: 20px;
+  background-color: #3c184e;
+  border-radius: 10px;
+  margin: 0 auto;
+}
+
+.wpp2 img {
+  font-size: 5%;
+}
+
+.servicos {
+  margin-top: 45px;
+}
+.servicos h2 {
+  font-size: 36px;
+  margin: 0 0 45px 0;
+}
+
+.servicos ul {
+  max-width: 800px;
+  margin: 0 auto 50px auto;
+  list-style-type: square;
+  font-size: 20px;
+}
+
+.servicos li {
+  margin: 0 0 20px 0px;
+}
+.servicos img {
+  max-width: 800px;
+  margin: 0 auto 45px auto;
+  background-color: #ffffffc4;
+  box-shadow: 3px 6px 10px 6px #1f26875e;
+  border-radius: 5px;
+}
+
+.redes-sociais {
+  padding: 120px 80px;
+}
+
+.redes-sociais p {
+  max-width: 800px;
+  margin: 0 auto 45px auto;
+  font-size: 40px;
+}
+
+.redes-sociais img {
+  margin: 0 20px;
+  width: 50px;
+  height: 50px;
+}
+
+.logo-marcas {
+  width: 100%;
+  padding: 120px 80px;
+}
+
+h3 {
+  font-size: 36px;
+  margin: 0 0 45px 0;
+}
+
+.containers {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.containers img {
+  width: 148px;
+  height: 148px;
+  margin: 0 15px;
+}
+
+.endereco {
+  width: 100%;
+  padding: 120px 80px;
+}
+
+.endereco p {
+  font-size: 20px;
+  margin: 0 0 45px 0;
+}
+
+iframe {
+  width: 800px;
+  height: 450px;
+}
+
+footer {
+  width: 100%;
+  padding: 10px 0;
+  font-size: 15px;
+}
